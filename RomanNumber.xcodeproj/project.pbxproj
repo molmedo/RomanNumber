@@ -13,6 +13,7 @@
 		22FFA67E1F62F81A0059A5EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22FFA67D1F62F81A0059A5EB /* Assets.xcassets */; };
 		22FFA6811F62F81A0059A5EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22FFA67F1F62F81A0059A5EB /* LaunchScreen.storyboard */; };
 		22FFA68C1F62F81A0059A5EB /* RomanNumberTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22FFA68B1F62F81A0059A5EB /* RomanNumberTests.swift */; };
+		22FFA6971F62FB550059A5EB /* ArabicToRomanCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22FFA6961F62FB550059A5EB /* ArabicToRomanCalculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		22FFA6871F62F81A0059A5EB /* RomanNumberTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RomanNumberTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22FFA68B1F62F81A0059A5EB /* RomanNumberTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanNumberTests.swift; sourceTree = "<group>"; };
 		22FFA68D1F62F81A0059A5EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22FFA6961F62FB550059A5EB /* ArabicToRomanCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArabicToRomanCalculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				22FFA67D1F62F81A0059A5EB /* Assets.xcassets */,
 				22FFA67F1F62F81A0059A5EB /* LaunchScreen.storyboard */,
 				22FFA6821F62F81A0059A5EB /* Info.plist */,
+				22FFA6961F62FB550059A5EB /* ArabicToRomanCalculator.swift */,
 			);
 			path = RomanNumber;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				22FFA6791F62F81A0059A5EB /* ViewController.swift in Sources */,
+				22FFA6971F62FB550059A5EB /* ArabicToRomanCalculator.swift in Sources */,
 				22FFA6771F62F81A0059A5EB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
